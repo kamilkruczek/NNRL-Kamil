@@ -2,10 +2,10 @@
 Tips for organizing research
 
 # Name?
-- Kamil Kruczek
+- Davide Ortolan
 # What kind of scientist?
-- Stem cell biologist
+- molecular biologist
 # 3 experiments/things you've done recently?
-- RNA-seq
-- Tissue culture
-- Microscopy
+- Immunofluorescensce
+- Cell culture
+- imaging
